@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Archangelsk';
+	src: url('Archangelsk.eot');
+	src: local('Archangelsk'),
+		url('../fonts/Archangelsk.eot') format('embedded-opentype'),
+		url('../fonts/Archangelsk.woff') format('woff'),
+		url('../fonts/Archangelsk.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
